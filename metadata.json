@@ -1,0 +1,7 @@
+{
+  "name": "Orkestrya",
+  "description": "Agency management system with dashboard, clients, services, projects, team, financial tracking, and Kanban board.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
